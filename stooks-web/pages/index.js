@@ -97,7 +97,7 @@ const Section3 = () => {
         <Divider y={0} />
         <Fieldset.Content>
           <Display shadow caption="Focus Mode, Immersive Reader and Lot's more working on stook.">
-            <Image width="600" height="300" style={{ objectFit: "cover" }} src="https://images.unsplash.com/photo-1581832098756-5b29318b542e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" />
+            <Image width="600" height="300" style={{ objectFit: "cover" }} src="https://media.giphy.com/media/lr7XCrfpTWYAk2X2kK/giphy.gif" />
           </Display>
           <p style={{ marginLeft: "5%", marginRight: "5%" }}>Illiteracy is a condition that denies people opportunity. In Sub-Saharan Africa, 48 million youth (ages 15-24) are illiterate. 22% of primary aged children are not in school, That makes 30 million primary aged children who are not in school. For children & Youth, We want to help them with Read aloud, parts of speech support, Syllabification & Picture Dictionary Support, to help them read between the lines.  </p>
           <p style={{ marginLeft: "5%", marginRight: "5%" }}>Ability to read is something that can't reached via just books. This differentiates people who want to read but aren't able to. Also, Scalability & Local language support might be the reason why most of 182 million adults are unable to read and write, We solve it using Serverless Technologies & AI Powered Translation. <br />This project supports all abilities, including readers with dyslexia, ADHD, autism, cerebral palsy, emerging readers, and non-native speakers.  </p>

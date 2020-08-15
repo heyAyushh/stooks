@@ -37,7 +37,7 @@ export default function Error() {
                     <Text size='1.2em' >
                         <ul type="square">
                             <li>Immersive Reader by Microsoft Azure</li>
-                            <li>Icons 8 - For Illustrations, & Ginger Cat</li>
+                            <li><Link href="https://icons8.com/" icon color>Icons 8</Link> - For Illustrations, & Ginger Cat</li>
                         </ul>
                     </Text>
                     <Text h4>

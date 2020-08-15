@@ -1,0 +1,21 @@
+{
+  "name": "stooks",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^5.4.0",
+    "@zeit-ui/react": "^1.8.0-canary.10",
+    "@zeit-ui/react-icons": "^1.3.0",
+    "framer-motion": "^2.4.0",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "recoil": "0.0.10",
+    "swr": "^0.3.0"
+  }
+}
